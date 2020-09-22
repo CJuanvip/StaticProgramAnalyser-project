@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -Wreturn-type -Wall -Wextra  -O3 -DNO_ASSERT   CMakeFiles/autotester.dir/src/TestWrapper.cpp.o  -o autotester ../spa/libspa.a ../../../lib/autotester/unix/release/libautotester.a -no-pie -lpthread 

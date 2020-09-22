@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -Wreturn-type -Wall -Wextra  -O3 -DNO_ASSERT   CMakeFiles/integration_testing.dir/src/ConstructAST.cpp.o CMakeFiles/integration_testing.dir/src/TestPKB-Qeval.cpp.o CMakeFiles/integration_testing.dir/src/main.cpp.o  -o integration_testing ../spa/libspa.a 
